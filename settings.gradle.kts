@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "IntervalTimer"
 include(":app")
- 
+include(":core:designsystem")
